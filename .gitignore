@@ -1,0 +1,19 @@
+# Dependency folders
+Sweet-shop-backend/node_modules
+Sweet-shop-frontend/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+*.env
+
+# Build outputs
+Sweet-shop-frontend/build
+Sweet-shop-backend/dist
+
+# System files
+.DS_Store
+Thumbs.db
