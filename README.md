@@ -103,7 +103,3 @@ GET /api/inventory/stats (admin) → View stats
 Megharaj Patil (BE Comp 3)
 
 GitHub: Megharaj30
-
-
-Would you like me to also include **sample `.env` files for both frontend and backend** (like API base URL for frontend, secrets for backend) so it’s copy-paste ready?
-
